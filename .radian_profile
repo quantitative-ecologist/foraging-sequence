@@ -1,0 +1,2 @@
+# auto match brackets and quotes
+options(radian.auto_match = FALSE)
